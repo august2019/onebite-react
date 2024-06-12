@@ -1,3 +1,9 @@
+# 리엑트 감정 일기장
+1. 라우팅 설정
+2. 공통컴포넌트 구현
+3. SCSS 사용
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
