@@ -3,6 +3,9 @@
 2. 공통컴포넌트 구현
 3. SCSS 사용
 
+![화면 캡처 2024-06-13 011154](https://github.com/august2019/onebite-react/assets/51160844/99171594-9bc0-4a84-b015-41e2db40fd16)
+
+
 
 # React + Vite
 
