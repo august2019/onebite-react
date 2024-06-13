@@ -1,0 +1,39 @@
+.Editor {
+  display: flex;
+  gap: 40px 0;
+  flex-direction: column;
+
+  &__tit {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 20px 0 10px;
+  }
+  &__input,
+  &__textarea {
+    background-color: rgb(236, 236, 236);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px 20px;
+  } 
+  &__textarea {
+    padding: 20px;
+    width: 100%;
+    min-height: 200px;
+    resize: vertical;
+  }
+
+  .emotion_section {
+    .emotion_list_wrapper {
+      display: flex;
+      justify-content: space-around;
+      gap: 2%;
+    }
+  }
+
+  .button_section {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+

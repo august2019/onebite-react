@@ -1,0 +1,20 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  padding: 0 20px;
+  background-color: rgb(236, 236, 236);
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  &__green {
+    background-color: rgb(100, 201, 100);
+    color: white;
+  }
+  &__red {
+    background-color: rgb(253, 86, 95);
+  color: white;
+  }
+}
