@@ -1,6 +1,7 @@
 # 리엑트 감정 일기장
 1. 라우팅 설정
 2. 공통컴포넌트 구현
+3. SCSS, BEM방법론 사용
 
 ![화면 캡처 2024-06-13 011154](https://github.com/august2019/onebite-react/assets/51160844/99171594-9bc0-4a84-b015-41e2db40fd16)
 
